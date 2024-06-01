@@ -1,2 +1,2 @@
 # The lapidarist problem
- An aproximation to "The lapidarist problem"
+ A simple aproximation to "The lapidarist problem".
